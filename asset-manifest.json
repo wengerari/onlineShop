@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/onlineShop/static/css/main.c55d6082.chunk.css",
+    "main.js": "/onlineShop/static/js/main.96024c85.chunk.js",
+    "main.js.map": "/onlineShop/static/js/main.96024c85.chunk.js.map",
+    "runtime-main.js": "/onlineShop/static/js/runtime-main.e810dfe3.js",
+    "runtime-main.js.map": "/onlineShop/static/js/runtime-main.e810dfe3.js.map",
+    "static/js/2.811f0841.chunk.js": "/onlineShop/static/js/2.811f0841.chunk.js",
+    "static/js/2.811f0841.chunk.js.map": "/onlineShop/static/js/2.811f0841.chunk.js.map",
+    "index.html": "/onlineShop/index.html",
+    "precache-manifest.edde119cddddad0f8a7d2b840553151f.js": "/onlineShop/precache-manifest.edde119cddddad0f8a7d2b840553151f.js",
+    "service-worker.js": "/onlineShop/service-worker.js",
+    "static/css/main.c55d6082.chunk.css.map": "/onlineShop/static/css/main.c55d6082.chunk.css.map",
+    "static/js/2.811f0841.chunk.js.LICENSE.txt": "/onlineShop/static/js/2.811f0841.chunk.js.LICENSE.txt",
+    "static/media/animal-paw-print.43f50358.svg": "/onlineShop/static/media/animal-paw-print.43f50358.svg",
+    "static/media/shopping-store.2c541ed1.svg": "/onlineShop/static/media/shopping-store.2c541ed1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e810dfe3.js",
+    "static/js/2.811f0841.chunk.js",
+    "static/css/main.c55d6082.chunk.css",
+    "static/js/main.96024c85.chunk.js"
+  ]
+}
